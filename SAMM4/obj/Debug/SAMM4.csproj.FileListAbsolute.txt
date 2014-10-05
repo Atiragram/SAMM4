@@ -1,0 +1,9 @@
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\bin\Debug\SAMM4.exe.config
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\bin\Debug\SAMM4.exe
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\bin\Debug\SAMM4.pdb
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\obj\Debug\SAMM4.csprojResolveAssemblyReference.cache
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\obj\Debug\SAMM4.Form1.resources
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\obj\Debug\SAMM4.Properties.Resources.resources
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\obj\Debug\SAMM4.csproj.GenerateResource.Cache
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\obj\Debug\SAMM4.exe
+c:\users\margo\documents\visual studio 2013\Projects\SAMM4\SAMM4\obj\Debug\SAMM4.pdb
