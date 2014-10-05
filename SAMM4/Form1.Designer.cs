@@ -38,6 +38,7 @@
             this.repairNumeric = new System.Windows.Forms.NumericUpDown();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.defectNumeric)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.timeNumeric)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repairNumeric)).BeginInit();
@@ -163,11 +164,20 @@
             this.label6.TabIndex = 9;
             this.label6.Text = "исправление./сутки";
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(15, 236);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(561, 151);
+            this.textBox1.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(730, 463);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.repairNumeric);
@@ -202,6 +212,7 @@
         private System.Windows.Forms.NumericUpDown repairNumeric;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 

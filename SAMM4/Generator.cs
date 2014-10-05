@@ -38,7 +38,7 @@ namespace SAMM4
 
                 }
             }
-            else if (node2.processingTime == 0)
+            if (node2.processingTime == 0)
             {
                 if (node2.state == Node.States.Work)
                 {
@@ -54,6 +54,9 @@ namespace SAMM4
 
                 }
             }
+            interval = Math.Min(node1.processingTime, node2.processingTime);
+            currentTime += interval;
+
 
         }
 

@@ -8,8 +8,8 @@ namespace SAMM4
 {
     class Statistics
     {
-        public int bothWork = 0;
-        public int oneRepairOneWork = 0;
-        public int bothRepair = 0;
+        public double bothWork = 0;
+        public double oneRepairOneWork = 0;
+        public double bothRepair = 0;
     }
 }
